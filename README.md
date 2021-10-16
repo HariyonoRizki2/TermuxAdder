@@ -38,6 +38,6 @@ Kalau muncul seperti gambar di bawah berarti work
 
 Kalau error di bagian python3 scraper.py silahkan masukan ulang `python3 scraper.py`
 Selamat mencoba kalu ada kesalahan silahkan hubungi
-[@kenkanasw](t.me/kenkanasw)
+[@kevinarifandi](t.me/kepinnaripp)
 
 
