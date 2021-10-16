@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Modified by @kenkanasw
+# Modified by @hariyonorizki2
 # Please give me credits if you use any codes from here.
 
 
@@ -23,7 +23,7 @@ def banner():
 {re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
             Version: 1.3
-     Modified by @kenkanasw
+     Modified by @hariyonorizki2
         """)
 
 cpass = configparser.RawConfigParser()
