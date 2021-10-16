@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/bin/env python3
-# Modified by @kenkanasw
+# Modified by @hariyonorizki2
 # Please give me credits if you use any codes from here.
 
 
@@ -36,5 +36,5 @@ setup.close()
 print(gr+"[+] Setup complete!")
 print(gr+"[+] Now you can run any tool!")
 print(gr+"[+] Make sure to read README.md before using this tool.")
-print(gr+"[+] https://github.com/kenkansaja/TermuxAdder/blob/main/README.md")
+print(gr+"[+] https://github.com/HariyonoRizki2/TermuxAdder/blob/main/README.md")
 print(gr+"[+] Silahkan ketik python3 scraper.py")
