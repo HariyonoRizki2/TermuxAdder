@@ -1,5 +1,5 @@
 #!/bin/env python3
-# (c) @kenkanasw
+# (c) @hariyonorizki2
 # Please give me credits if you use any codes from here.
 
 
