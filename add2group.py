@@ -1,6 +1,6 @@
 #!/bin/env python3
-# Modified by @kenkanasw
-# Telegram Group: http://t.me/linux_repo
+# Modified by @hariyonorizki2
+# Telegram Group: http://t.me/kitgbotz
 # Please give me credits if you use any codes from here.
 
 from telethon.sync import TelegramClient
@@ -26,7 +26,7 @@ def banner():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
               Version: 1.3
-          Modified by @kenkanasw
+          Modified by @hariyonorizki2
         """)
 
 cpass = configparser.RawConfigParser()
